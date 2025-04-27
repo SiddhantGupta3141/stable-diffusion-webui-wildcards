@@ -1,0 +1,25 @@
+Church
+School
+Park
+Office
+Library
+Gym
+Movie Theater
+Pool Hall
+Bar
+Restaurant
+Bus
+Subway
+Train
+Plane
+Train Station
+Bus Station
+Airport
+Café
+Amusement Park
+Mall
+Cemetery
+Hospital
+Zoo
+Museum
+Art Gallery.
